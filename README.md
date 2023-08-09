@@ -1,11 +1,16 @@
 ### Hi there, I'm Lexi 👋
 
+_I'm a technical project manager and member of the Salesforce & IT teams at Nonprofit Finance Fund. I work on system implementations, automations, integrations, solution design, and process improvement._
+
+
 🏆 1X Salesforce certified
 ⚡ Apex, LWC, Flow, JS
 
 💬 Talk to me about Salesforce, Okta, Azure, MS365
 
+
 🖥️ I’m currently working on a custom Salesforce-Sharepoint integration
+
 📓 I’m currently preparing for the SF App Builder and Dev I Certifications
 
 

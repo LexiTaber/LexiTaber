@@ -11,7 +11,7 @@ _I'm a technical project manager and member of the Salesforce & IT teams at Nonp
 
 🖥️ Currently working on: a custom Salesforce-Sharepoint integration
 
-📓 Currently studying: for the SF App Builder and Dev I Certifications
+📓 Currently studying: for SF App Builder and Dev I Certifications
 
 
 <!--

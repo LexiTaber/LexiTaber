@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Lexi 👋
+
+🏆 1X Salesforce certified
+⚡ Apex, LWC, Flow, JS
+
+💬 Talk to me about Salesforce, Okta, Azure, MS365
+
+🖥️ I’m currently working on a custom Salesforce-Sharepoint integration
+📓 I’m currently preparing for the SF App Builder and Dev I Certifications
+
 
 <!--
 **LexiTaber/LexiTaber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

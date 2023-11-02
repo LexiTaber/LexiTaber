@@ -4,7 +4,8 @@ _I'm a technical project manager and member of the Salesforce & IT teams at Nonp
 
 
 🏆 1X Salesforce certified
-⚡ Apex, LWC, Flow, JS
+⚡ Apex, SOQL, LWC, Flow, JS
+🤙🏻 RAD Women (Radical Apex Developers) Fall 2023
 
 💬 Talk to me about Salesforce, Okta, Azure, MS365
 

@@ -9,8 +9,11 @@ _I'm a technical project manager and member of the Salesforce & IT teams at Nonp
 
 💬 Talk to me about Salesforce, Okta, Azure, MS365
 
+Recent Projects:
+- Salesforce/Sharepoint Integration
+- Custom Donation Form w/ Salesforce Integration
 
-🖥️ Currently working on: a custom Salesforce-Sharepoint integration
+🖥️ Currently working on: a case text scraper and assignment flow
 
 📓 Currently studying: for SF App Builder and Dev I Certifications
 

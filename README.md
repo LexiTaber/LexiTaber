@@ -1,6 +1,6 @@
 ### Hi there, I'm Lexi 👋
 
-_I'm a technical project manager and member of the Salesforce & IT teams at Nonprofit Finance Fund. I work on system implementations, automations, integrations, solution design, and process improvement._
+_I'm a technical project manager and solutions engineer on the Operations & IT team at Nonprofit Finance Fund. I work on system implementations, automations, integrations, solution design, and process improvement._
 
 
 🏆 1X Salesforce certified

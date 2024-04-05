@@ -15,7 +15,7 @@ Recent Projects:
 
 🖥️ Currently working on: a case text scraper and assignment flow
 
-📓 Currently studying: for SF App Builder and Dev I Certifications
+📓 Currently preparing for: SF App Builder and Dev I Certifications
 
 
 <!--

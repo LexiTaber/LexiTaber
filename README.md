@@ -5,7 +5,7 @@ _I'm a technical project manager and solutions engineer on the Operations & IT t
 
 🏆 1X Salesforce certified
 ⚡ Apex, SOQL, LWC, Flow, JS
-🤙🏻 RAD Women (Radical Apex Developers) Fall 2023
+🤙🏻 RAD Women (Radical Apex Developers) II Completed May 2024
 
 💬 Talk to me about Salesforce, Okta, Azure, MS365
 

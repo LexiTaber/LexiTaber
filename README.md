@@ -10,10 +10,13 @@ _I'm a admin/developer on the Operations & IT team at Nonprofit Finance Fund. I 
 💬 Talk to me about Salesforce, Okta, Azure, MS365
 
 Recent Projects:
+-
 - Salesforce/Sharepoint Integration
 - Custom Donation Form w/ Salesforce Integration
 
-🖥️ Currently working on: Automating invoice reminders for a Nonprofit Organization
+🖥️ Currently working on: 
+- Developing a custom application to support CDFI in managing New Markets Tax Credit allocations
+- Automating invoice reminders for a Nonprofit Organization
 
 📓 Currently preparing for: SF App Builder and Dev I Certifications
 

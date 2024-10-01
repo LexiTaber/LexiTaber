@@ -1,6 +1,6 @@
 ### Hi there, I'm Lexi 👋
 
-_I'm a technical project manager and solutions engineer on the Operations & IT team at Nonprofit Finance Fund. I work on system implementations, automations, integrations, solution design, and process improvement._
+_I'm a admin/developer on the Operations & IT team at Nonprofit Finance Fund. I work on system implementations, automations, integrations, solution design, and process improvement._
 
 
 🏆 1X Salesforce certified
@@ -13,7 +13,7 @@ Recent Projects:
 - Salesforce/Sharepoint Integration
 - Custom Donation Form w/ Salesforce Integration
 
-🖥️ Currently working on: a case text scraper and assignment flow
+🖥️ Currently working on: Automating invoice reminders for a Nonprofit Organization
 
 📓 Currently preparing for: SF App Builder and Dev I Certifications
 

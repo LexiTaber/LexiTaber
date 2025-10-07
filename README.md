@@ -1,6 +1,6 @@
 ### Hi there, I'm Lexi 👋
 
-_I'm a admin/developer on the Operations & IT team at Nonprofit Finance Fund. I work on system implementations, automations, integrations, solution design, and process improvement._
+_I'm a solutions architect and Technical Systems lead at Nonprofit Finance Fund. I work on system implementations, automations, integrations, solution design, and process improvement._
 
 
 🏆 1X Salesforce certified
@@ -10,13 +10,13 @@ _I'm a admin/developer on the Operations & IT team at Nonprofit Finance Fund. I 
 💬 Talk to me about Salesforce, Okta, Azure, MS365
 
 Recent Projects:
--
+
 - Salesforce/Sharepoint Integration
 - Custom Donation Form w/ Salesforce Integration
+- Custom NMTC Application
 
 🖥️ Currently working on: 
-- Developing a custom application to support CDFI in managing New Markets Tax Credit allocations
-- Automating invoice reminders for a Nonprofit Organization
+- Developing a fully custom capital management application on NFF's Sales Cloud
 
 📓 Currently preparing for: SF App Builder and Dev I Certifications
 

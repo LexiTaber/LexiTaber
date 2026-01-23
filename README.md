@@ -20,9 +20,6 @@ Recent Projects:
 🖥️ Currently working on: 
 - I'm on sabbatical! Find me skiing and exploring the American West and Canadian Rockiest through April 2026
 
-📓 Currently preparing for: SF App Builder and Dev I Certifications
-
-
 <!--
 **LexiTaber/LexiTaber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

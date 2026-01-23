@@ -14,9 +14,11 @@ Recent Projects:
 - Salesforce/Sharepoint Integration
 - Custom Donation Form w/ Salesforce Integration
 - Custom NMTC Application
+- Custom Capital Management Application on Sales Cloud
+- NPSP Implementation for Donations & Grant Funded Nonprofit
 
 🖥️ Currently working on: 
-- Developing a fully custom capital management application on NFF's Sales Cloud
+- I'm on sabbatical! Find me skiing and exploring the American West and Canadian Rockiest through April 2026
 
 📓 Currently preparing for: SF App Builder and Dev I Certifications
 

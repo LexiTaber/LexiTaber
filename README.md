@@ -3,7 +3,7 @@
 _I'm a solutions architect and Technical Systems lead at Nonprofit Finance Fund. I work on system implementations, automations, integrations, solution design, and process improvement._
 
 
-🏆 1X Salesforce certified
+🏆 Salesforce certified
 ⚡ Apex, SOQL, LWC, Flow, JS
 🤙🏻 RAD Women (Radical Apex Developers) II Completed May 2024
 

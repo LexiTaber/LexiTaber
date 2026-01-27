@@ -18,7 +18,7 @@ Recent Projects:
 - NPSP Implementation for Donations & Grant Funded Nonprofit
 
 🖥️ Currently working on: 
-- I'm on sabbatical! Find me skiing and exploring the American West and Canadian Rockiest through April 2026
+- I'm on sabbatical! Find me skiing and exploring the American West and Canadian Rockies through April 2026
 
 <!--
 **LexiTaber/LexiTaber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

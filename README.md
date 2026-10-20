@@ -1,6 +1,6 @@
 ### Hi there, I'm Lexi 👋
 
-_I'm a solutions architect and systems lead at Nonprofit Finance Fund. I work on system implementations, automations, integrations, solution design, and process improvement._
+_I'm a systems architect and technical lead at Nonprofit Finance Fund. I work on system implementations, automations, integrations, solution design, and process improvement._
 
 💬 Talk to me about Salesforce, Okta, Azure, MS365
 

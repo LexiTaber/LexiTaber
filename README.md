@@ -10,8 +10,9 @@ Recent Projects:
 - Custom Donation Form w/ Salesforce Integration
 - Custom NMTC Application
 - Custom Financial Services Lending and Capital Management Application on Sales Cloud
-- NPSP Implementation for Donations & Grant-Funded Nonprofit
+- NPC Implementation for Donations & Grant-Funded Nonprofit
 - Custom Application for Legal Case Capture
+- Custom QB<>SF Integration
 
 🖥️ Currently working on:
 - Data Warehouse Architecture Implementation
